@@ -25,6 +25,11 @@ A responsive business website featuring digital products, free resources, and in
 - [Personalized Chore Chart Generator](https://evermistdesigns.page/chore-chart-generator.html)
 - [Free Resource Library](https://evermistdesigns.page/resources.html)
 
+### IT Help Desk Troubleshooting Toolkit
+
+A hands-on portfolio project featuring troubleshooting guides, security awareness, ticket documentation, and realistic support scenarios.
+
+[View the IT Help Desk Toolkit](https://github.com/mykaylarider/it-help-desk-toolkit)
 ### Portfolio Projects
 
 - [Developer Portfolio](https://mykaylarider.github.io/EvermistLabs/projects/developer-portfolio/)
