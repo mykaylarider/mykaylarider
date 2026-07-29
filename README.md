@@ -25,6 +25,10 @@ A responsive business website featuring digital products, free resources, and in
 - [Personalized Chore Chart Generator](https://evermistdesigns.page/chore-chart-generator.html)
 - [Free Resource Library](https://evermistdesigns.page/resources.html)
 
+### Portfolio Projects
+
+- [Developer Portfolio](https://mykaylarider.github.io/EvermistLabs/projects/developer-portfolio/)
+- [Interactive Study Planner](https://mykaylarider.github.io/EvermistLabs/projects/study-planner/)
 ## Skills I’m Developing
 
 - HTML and CSS
