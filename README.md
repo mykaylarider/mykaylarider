@@ -1,55 +1,129 @@
-# Hi, I’m MyKayla 👋
+# Hi, I'm MyKayla 👋
 
-I’m an Information Technology student, small-business owner, and aspiring remote IT professional. I enjoy creating practical websites and digital tools that solve everyday problems.
+### IT Student • Web Developer • Technical Problem Solver
 
-## About Me
+I'm an Information Technology student building hands-on experience in **IT support, web development, troubleshooting, automation, networking, and security**.
 
-- 🎓 Pursuing an Associate in Applied Science in Information Technology
-- 📚 Current cumulative GPA: 3.538
-- 💻 Learning web development, Git, GitHub, automation, networking, and security
-- 🌿 Founder of EvermistDesignsCo
-- 🛠️ Building accessible tools for busy families and small businesses
-- 🏠 Seeking remote opportunities in IT support, web content, technical support, and digital operations
+I enjoy turning problems into practical solutions — whether that's troubleshooting a technical issue, building an interactive web tool, or improving the usability and accessibility of a website.
 
-## Featured Work
+---
 
-### EvermistDesignsCo Website
+## 🚀 Featured Projects
 
-A responsive business website featuring digital products, free resources, and interactive family-organization tools.
+### 🛠️ IT Help Desk Troubleshooting Toolkit
 
-[Visit EvermistDesignsCo](https://evermistdesigns.page)
+A hands-on IT support portfolio project built around realistic technical-support scenarios.
 
-### Interactive Tools
+**What it demonstrates:**
 
-- [Kitchen Reset Planner](https://evermistdesigns.page/kitchen-reset-planner.html)
-- [Personalized Chore Chart Generator](https://evermistdesigns.page/chore-chart-generator.html)
-- [Free Resource Library](https://evermistdesigns.page/resources.html)
+* Technical troubleshooting
+* Help desk documentation
+* Security awareness
+* Ticket documentation
+* Problem diagnosis
+* End-user support
 
-### IT Help Desk Troubleshooting Toolkit
+🔗 [View the IT Help Desk Toolkit](https://github.com/mykaylarider/it-help-desk-toolkit)
 
-A hands-on portfolio project featuring troubleshooting guides, security awareness, ticket documentation, and realistic support scenarios.
+---
 
-[View the IT Help Desk Toolkit](https://github.com/mykaylarider/it-help-desk-toolkit)
-### Portfolio Projects
+### 🌿 EvermistDesignsCo
 
-- [Developer Portfolio](https://mykaylarider.github.io/EvermistLabs/projects/developer-portfolio/)
-- [Interactive Study Planner](https://mykaylarider.github.io/EvermistLabs/projects/study-planner/)
-## Skills I’m Developing
+A responsive website I built for my small business featuring digital resources and interactive browser-based tools.
 
-- HTML and CSS
-- JavaScript
-- Git and GitHub
-- GitHub Pages and GitHub Actions
-- Responsive web design
-- Website accessibility
-- IT support and troubleshooting
-- Networking and security fundamentals
-- Canva and digital content design
+**What I worked with:**
 
-## Current Goals
+* HTML
+* CSS
+* JavaScript
+* Responsive design
+* Accessibility
+* GitHub Pages
+* Interactive web tools
 
-- Build practical projects for my IT portfolio
-- Strengthen my JavaScript and automation skills
-- Prepare for the GitHub Foundations certification
-- Gain experience for a remote IT or technical-support role
-- Continue improving EvermistDesignsCo with accessible, useful tools
+🔗 [Visit EvermistDesignsCo](https://evermistdesigns.page)
+
+#### Interactive Tools
+
+🧹 [Kitchen Reset Planner](https://evermistdesigns.page/kitchen-reset-planner.html)
+
+📋 [Personalized Chore Chart Generator](https://evermistdesigns.page/chore-chart-generator.html)
+
+📚 [Free Resource Library](https://evermistdesigns.page/resources.html)
+
+---
+
+### 📚 Interactive Study Planner
+
+A browser-based productivity project designed to help organize coursework and study tasks.
+
+🔗 [View Study Planner](https://mykaylarider.github.io/EvermistLabs/projects/study-planner/)
+
+---
+
+### 💻 Developer Portfolio
+
+A web-development portfolio project showcasing my growing front-end development skills.
+
+🔗 [View Developer Portfolio](https://mykaylarider.github.io/EvermistLabs/projects/developer-portfolio/)
+
+---
+
+## 💻 Technical Skills
+
+**Web Development**
+
+`HTML` `CSS` `JavaScript` `Responsive Design` `Accessibility`
+
+**IT & Support**
+
+`Technical Troubleshooting` `Help Desk Support` `Windows` `Networking Fundamentals` `Security Fundamentals`
+
+**Development Tools**
+
+`Git` `GitHub` `GitHub Pages` `GitHub Actions` `PowerShell`
+
+**Design & Digital Tools**
+
+`Canva` `Digital Content Design`
+
+---
+
+## 🎓 Education
+
+**Associate in Applied Science — Information Technology**
+
+Currently pursuing my degree while building hands-on technical projects alongside my coursework.
+
+**Cumulative GPA:** 3.538
+
+---
+
+## 🌱 Currently Learning
+
+* JavaScript
+* Git & GitHub
+* Automation
+* Networking
+* Cybersecurity fundamentals
+* Accessible web development
+
+---
+
+## 🎯 What I'm Building Toward
+
+I'm focused on strengthening my technical skills through real projects and building experience in:
+
+* IT support and troubleshooting
+* Technical support
+* Front-end web development
+* Automation
+* Digital operations
+
+I'm especially interested in creating technology that is **practical, accessible, and genuinely useful**.
+
+---
+
+### Thanks for visiting! 👋
+
+Feel free to explore my repositories and follow along as I continue building.
