@@ -123,7 +123,27 @@ I'm focused on strengthening my technical skills through real projects and build
 I'm especially interested in creating technology that is **practical, accessible, and genuinely useful**.
 
 ---
+## Networking & Programming Coursework
 
+I'm continuing to expand my technical skills through hands-on IT coursework and practical projects.
+
+### Cisco Packet Tracer & Networking
+- Creating and exploring network topologies
+- Connecting devices and testing network connectivity
+- Exploring network device configuration using the CLI
+
+### RAPTOR Programming
+- Visual flowchart programming
+- Algorithm development and logical problem-solving
+- Understanding program flow and decision-making
+
+### Python Programming
+- Variables, arithmetic operations, and user input
+- Developing introductory Python programs
+- Applying programming fundamentals through coursework
+
+### Certifications
+- Google IT Support Professional Certificate
 ### Thanks for visiting! 👋
 
 Feel free to explore my repositories and follow along as I continue building.
